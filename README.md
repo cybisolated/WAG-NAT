@@ -17,6 +17,7 @@ The folder `expr/` contains all the experimental scripts to run.
 
 # Citation
 To cite this paper, please use the following bib:
+```tex
 @inproceedings{chen2023wag,
   title={WAG-NAT: Window Attention and Generator Based Non-Autoregressive Transformer for Time Series Forecasting},
   author={Chen, Yibin and Li, Yawen and Xu, Ailan and Sun, Qiang and Chen, Xiaomin and Xu, Chen},
@@ -25,3 +26,4 @@ To cite this paper, please use the following bib:
   year={2023},
   organization={Springer}
 }
+```
