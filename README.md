@@ -14,3 +14,14 @@ Run `python script_train_${model}.py` to train the corresponding model.
 Run `python script_tune_${model}.py` to tune the corresponding model.
 
 The folder `expr/` contains all the experimental scripts to run.
+
+# Citation
+To cite this paper, please use the following bib:
+@inproceedings{chen2023wag,
+  title={WAG-NAT: Window Attention and Generator Based Non-Autoregressive Transformer for Time Series Forecasting},
+  author={Chen, Yibin and Li, Yawen and Xu, Ailan and Sun, Qiang and Chen, Xiaomin and Xu, Chen},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={293--304},
+  year={2023},
+  organization={Springer}
+}
