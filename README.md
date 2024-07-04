@@ -2,7 +2,7 @@
 The repository contains the code for paper **_WAG-NAT: Window Attention and Generator Based Non-Autoregressive Transformer for Time Series Forecasting_**, 
 which is accepted by _ICANN 2023 - International Conference on Artificial Neural Networks_. 
 
-**For your reference, our paper is uploaded in this repo as `WAG-NAT.pdf`.**
+**For your reference, our paper is uploaded in this repo, see [WAG-NAT.pdf](https://github.com/cybisolated/WAG-NAT/blob/main/WAG-NAT.pdf)
 
 # Data
 The ETT dataset can be obtained from repo [ETDataset](https://github.com/zhouhaoyi/ETDataset).
